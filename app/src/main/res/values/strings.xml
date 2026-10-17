@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TugasKu</string>
+    <string name="calendar">Kalender</string>
+    <string name="tasks">Tugas</string>
+    <string name="reminders">Pengingat</string>
+    <string name="settings">Pengaturan</string>
+</resources>
